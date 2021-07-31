@@ -1,11 +1,11 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Victor</h1>
-<h3 align="center">I'm a Computer Science student. Looking for internship at the moment.</h3>
+<h3 align="center">I'm a Computer Science student.</h3>
 
 - 🌱 Currently learning HTML, CSS, JavaScript, PHP and MySQL
 
 - 💬 Ask me about the above languagens that I will answer (if I know)
 
-- 📫 How to reach me quickly **gguvictor909@gmail.com**
+- 📫 How to reach me **gguvictor909@gmail.com**
 
 <p align="center">
 <a href="https://codepen.io/gustavo_victor" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
