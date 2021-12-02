@@ -1,9 +1,9 @@
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Victor</h1>
 <h3 align="center">I'm a Computer Science student.</h3>
 
-- 🌱 Currently learning HTML, CSS, JavaScript, PHP and MySQL
+- 🌱 Currently learning JavaScript and React
 
-- 💬 Ask me about the above languagens that I will answer (if I know)
+- 💬 Ask me about anything ...
 
 - 📫 How to reach me **gguvictor909@gmail.com**
 
