@@ -6,6 +6,7 @@
  <p align="center">🎯 My goal is to become a fullstack web developer</p>
 <br/>
 
+<!--
 <div align="center" class="profile-data">
   <a href="https://github.com/Gustavo-Victor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Victor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -23,6 +24,7 @@
   <img align="center" alt="Bootstrap" title="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />  
    <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />  
 </div>
+-->
   
  <div align="center" class="social-media">
    <br/>
