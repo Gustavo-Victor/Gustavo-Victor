@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science student.</h3>
 
 <br/>
- <p align="center">🌱 Currently learning React and TypeScript</p>
+ <p align="center">🌱 Currently learning JavaScript</p>
  <p align="center">🎯 My goal is to become a fullstack web developer</p>
 <br/>
 
