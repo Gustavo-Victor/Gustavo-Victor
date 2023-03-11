@@ -1,4 +1,4 @@
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Victor</h1>
+<h1 align="center">Hi there 🖖, I'm Gustavo Victor</h1>
 <h3 align="center">I'm a Computer Science student.</h3>
 
 <br/>
