@@ -1,4 +1,4 @@
-<h1 align="center">Olá 🖖, Me chamdo Gustavo Victor</h1>
+<h1 align="center">Olá 🖖, Me chamo Gustavo Victor</h1>
 <h3 align="center">Estudante de programação</h3>
 
 <br/>
