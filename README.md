@@ -5,8 +5,6 @@
  <!--<p align="center">🎯 My goal is to become a fullstack web developer</p>-->
  <p align="center">💻 HTML | CSS | JS | TS | React | Node.js | MySQL | PostgreSQL | MongoDB</p>
  <p align="center">💡 Interesse em desenvolvimento web</p>
- <p align="center">🌱 Atualmente aprendendo Python</p>
- <p align="center">🧑‍🎓 Cursando análise e desenvolvimento de sistemas</p>
  <p align="center">🚀 Em busca de primeira vaga na área de programação</p>
 <br/>
 
