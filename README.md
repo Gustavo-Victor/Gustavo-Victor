@@ -1,11 +1,13 @@
 <h1 align="center">Olá 🖖, Me chamo Gustavo Victor</h1>
-<h3 align="center">Estudante de programação</h3>
+<h3 align="center">Desenvolvedor Freelancer</h3>
 
 <br/>
  <!--<p align="center">🎯 My goal is to become a fullstack web developer</p>-->
- <p align="center">💻 HTML | CSS | JS | TS | React | Node.js | MySQL | PostgreSQL | MongoDB</p>
- <p align="center">💡 Interesse em desenvolvimento web</p>
- <p align="center">🚀 Em busca de primeira vaga na área de programação</p>
+ <p align="center">💻 HTML | CSS | JS | TS | React | Node.js | MySQL | PostgreSQL | MongoDB | Wordpress</p>
+ <p align="center">❤️ Entusiasta da programação e tecnologia</p>
+ <p align="center">💻 Aplicações, interfaces e APIS com programação e Wordpress</p>
+ <p align="center">🛠 Projetos otimizados</p>
+ <p align="center">🎨 Alta fidelidade no layout</p>
 <br/>
 
 <!--
