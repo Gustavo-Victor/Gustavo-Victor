@@ -3,7 +3,7 @@
 
 <br/>
  <!--<p align="center">🎯 My goal is to become a fullstack web developer</p>-->
- <p align="center">💻 HTML | CSS | JS | TS | React | Node.js | MySQL | PostgreSQL | MongoDB | Wordpress</p>
+ <p align="center">💻 HTML | CSS | JS | TS | React | Node.js | Wordpress</p>
  <p align="center">❤️ Entusiasta da programação e tecnologia</p>
  <p align="center">💻 Aplicações, interfaces e APIS com programação e Wordpress</p>
  <p align="center">🛠 Projetos otimizados</p>
